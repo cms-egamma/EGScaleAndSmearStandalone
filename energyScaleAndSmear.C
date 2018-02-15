@@ -1,5 +1,7 @@
 #include "EnergyScaleCorrection_class.cc"
 
+#include "TRandom3.h"
+#include <memory>
 
 namespace egamma{
   
